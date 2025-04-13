@@ -1,0 +1,3 @@
+關於 Goroutine的二三事:https://medium.com/@LykoiZhang/關於-goroutine的二三事-1962bafef9b0
+使用 Go Channel 及 Goroutine 時機:https://blog.wu-boy.com/2020/01/when-to-use-go-channel-and-goroutine/
+用 10 分鐘了解 Go 語言如何從 Channel 讀取資料:https://blog.wu-boy.com/2022/05/read-data-from-channel-in-go/
